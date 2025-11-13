@@ -9,6 +9,8 @@ import LoginPage from "./pages/LoginPage";
 import RegisterPage from "./pages/RegisterPage";
 import CartPage from "./pages/CartPage";
 
+import ProductDetailPage from "./pages/ProductDetailPage";
+
 // Tạo một layout riêng cho các trang chính (có Header/Footer đầy đủ)
 const MainLayout = () => (
   <>
@@ -27,6 +29,8 @@ function App() {
       <Route element={<MainLayout />}>
         <Route path="/" element={<HomePage />} />
         <Route path="/cart" element={<CartPage />} />
+
+        <Route path="/product/:id" element={<ProductDetailPage />} />
       </Route>
 
       {/* 2. Các trang KHÔNG dùng MainLayout (tự quản lý layout riêng) */}

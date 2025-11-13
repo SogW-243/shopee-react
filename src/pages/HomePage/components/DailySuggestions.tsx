@@ -165,7 +165,12 @@ function DailySuggestions() {
         <Grid container spacing={1}>
           {displayedData?.map((product) => (
             <Grid size={{ xs: 6, md: 2 }} key={product.id}>
-              <SuggestionCard product={product} onAddToCart={handleAddToCart} />
+              <SuggestionCard
+                id={product.id}
+                img={product.img}
+                product={product}
+                onAddToCart={handleAddToCart}
+              />
             </Grid>
           ))}
         </Grid>

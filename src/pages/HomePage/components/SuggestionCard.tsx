@@ -2,10 +2,18 @@
 // (THÊM NÚT "MUA HÀNG" VÀO ĐÂY)
 
 import React from "react";
+import { useNavigate } from "react-router-dom";
 // 1. ⭐ IMPORT THÊM BUTTON
 import { Box, Typography, Paper, Button } from "@mui/material";
-import { useQueryClient, useMutation } from "@tanstack/react-query"; // Import hooks
+import { useQueryClient, useMutation } from "@tanstack/react-query";
+// Import hooks
+const navigate = useNavigate();
 
+const handleCardClick = () => {
+  // Chuyển hướng sang trang chi tiết với ID của sản phẩm
+  // (Bạn cần truyền thêm id vào props của Card nếu chưa có)
+  navigate(`/product/${id}`);
+};
 // (Interface giữ nguyên)
 interface SuggestionProduct {
   id: string;
@@ -28,17 +36,27 @@ interface CartProduct {
 
 // 2. ⭐ THÊM prop onAddToCart VÀO INTERFACE
 interface SuggestionCardProps {
+  id: string;
   product: SuggestionProduct; // Gửi cả object product
   onAddToCart: (product: SuggestionProduct) => void; // 👈 Thêm hàm này
 }
 
 // 3. ⭐ NHẬN PROPS
-function SuggestionCard({ product, onAddToCart }: SuggestionCardProps) {
-  const { img, discount, title, price, tags } = product; // Tách props ra
+function SuggestionCard({
+  id,
+  img,
+  discount,
+  title,
+  price,
+  tags,
+  onAddToCart,
+}: SuggestionCardProps) {
+  const navigate = useNavigate(); // 👈 4. Khai báo hook
   const hasReVoDich = tags.includes("Rẻ Vô Địch");
 
   return (
     <Paper
+      onClick={() => navigate(`/product/${id}`)}
       elevation={0}
       sx={{
         width: "100%",
