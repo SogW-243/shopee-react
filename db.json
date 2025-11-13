@@ -1,0 +1,761 @@
+{
+  "flashSaleProducts": [
+    {
+      "id": "1",
+      "image": "/assets/flashsale/fs1.webp",
+      "price": "119.000 ₫",
+      "discount": "-21%",
+      "soldLabel": "ĐANG BÁN CHẠY",
+      "soldPercent": 80
+    },
+    {
+      "id": "2",
+      "image": "/assets/flashsale/fs2.webp",
+      "price": "169.560 ₫",
+      "discount": "-33%",
+      "soldLabel": "ĐANG BÁN CHẠY",
+      "soldPercent": 60
+    },
+    {
+      "id": "3",
+      "image": "/assets/flashsale/fs3.webp",
+      "price": "50.600 ₫",
+      "discount": "-49%",
+      "soldLabel": "ĐANG BÁN CHẠY",
+      "soldPercent": 90
+    },
+    {
+      "id": "4",
+      "image": "/assets/flashsale/fs4.webp",
+      "price": "129.000 ₫",
+      "discount": "-24%",
+      "soldLabel": "ĐANG BÁN CHẠY",
+      "soldPercent": 50
+    },
+    {
+      "id": "5",
+      "image": "/assets/flashsale/fs5.webp",
+      "price": "9.900 ₫",
+      "discount": "-84%",
+      "soldLabel": "ĐÃ BÁN 11",
+      "soldPercent": 30
+    },
+    {
+      "id": "6",
+      "image": "/assets/flashsale/fs6.webp",
+      "price": "108.000 ₫",
+      "discount": "-32%",
+      "soldLabel": "ĐANG BÁN CHẠY",
+      "soldPercent": 75
+    },
+    {
+      "id": "7",
+      "image": "/assets/flashsale/fs7.webp",
+      "price": "108.000 ₫",
+      "discount": "-32%",
+      "soldLabel": "ĐANG BÁN CHẠY",
+      "soldPercent": 85
+    },
+    {
+      "id": "8",
+      "image": "/assets/flashsale/fs8.webp",
+      "price": "384.560 ₫",
+      "discount": "-27%",
+      "soldLabel": "ĐANG BÁN CHẠY",
+      "soldPercent": 70
+    },
+    {
+      "id": "9",
+      "image": "/assets/flashsale/fs9.webp",
+      "price": "93.600 ₫",
+      "discount": "-21%",
+      "soldLabel": "CHỈ CÒN 5",
+      "soldPercent": 95
+    },
+    {
+      "id": "10",
+      "image": "/assets/flashsale/fs10.webp",
+      "price": "80.000 ₫",
+      "discount": "-20%",
+      "soldLabel": "ĐANG BÁN CHẠY",
+      "soldPercent": 65
+    },
+    {
+      "id": "11",
+      "image": "/assets/flashsale/fs11.webp",
+      "price": "58.400 ₫",
+      "discount": "-50%",
+      "soldLabel": "ĐANG BÁN CHẠY",
+      "soldPercent": 80
+    },
+    {
+      "id": "12",
+      "image": "/assets/flashsale/fs12.webp",
+      "price": "249.000 ₫",
+      "discount": "-29%",
+      "soldLabel": "ĐANG BÁN CHẠY",
+      "soldPercent": 78
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "img": "/assets/categories/cat1.webp",
+      "label": "Thời Trang Nam"
+    },
+    {
+      "id": "2",
+      "img": "/assets/categories/cat2.webp",
+      "label": "Điện Thoại & Phụ Kiện"
+    },
+    {
+      "id": "3",
+      "img": "/assets/categories/cat3.webp",
+      "label": "Thiết Bị Điện Tử"
+    },
+    {
+      "id": "4",
+      "img": "/assets/categories/cat4.webp",
+      "label": "Máy Tính & Laptop"
+    },
+    {
+      "id": "5",
+      "img": "/assets/categories/cat5.webp",
+      "label": "Máy Ảnh & Máy Quay Phim"
+    },
+    {
+      "id": "6",
+      "img": "/assets/categories/cat6.webp",
+      "label": "Đồng Hồ"
+    },
+    {
+      "id": "7",
+      "img": "/assets/categories/cat7.webp",
+      "label": "Giày Dép Nam"
+    },
+    {
+      "id": "8",
+      "img": "/assets/categories/cat8.webp",
+      "label": "Thiết Bị Điện Gia Dụng"
+    },
+    {
+      "id": "9",
+      "img": "/assets/categories/cat9.webp",
+      "label": "Thể Thao & Du Lịch"
+    },
+    {
+      "id": "10",
+      "img": "/assets/categories/cat10.webp",
+      "label": "Ô Tô & Xe Máy & Xe Đạp"
+    },
+    {
+      "id": "11",
+      "img": "/assets/categories/cat11.webp",
+      "label": "Thời Trang Nữ"
+    },
+    {
+      "id": "12",
+      "img": "/assets/categories/cat12.webp",
+      "label": "Mẹ & Bé"
+    },
+    {
+      "id": "13",
+      "img": "/assets/categories/cat13.webp",
+      "label": "Nhà Cửa & Đời Sống"
+    },
+    {
+      "id": "14",
+      "img": "/assets/categories/cat14.webp",
+      "label": "Sắc Đẹp"
+    },
+    {
+      "id": "15",
+      "img": "/assets/categories/cat15.webp",
+      "label": "Sức Khỏe"
+    },
+    {
+      "id": "16",
+      "img": "/assets/categories/cat16.webp",
+      "label": "Giày Dép Nữ"
+    },
+    {
+      "id": "17",
+      "img": "/assets/categories/cat17.webp",
+      "label": "Túi Ví Nữ"
+    },
+    {
+      "id": "18",
+      "img": "/assets/categories/cat18.webp",
+      "label": "Phụ Kiện & Trang Sức Nữ"
+    },
+    {
+      "id": "19",
+      "img": "/assets/categories/cat19.webp",
+      "label": "Bách Hóa Online"
+    },
+    {
+      "id": "20",
+      "img": "/assets/categories/cat20.webp",
+      "label": "Nhà Sách Online"
+    }
+  ],
+  "shopeeMallProducts": [
+    {
+      "id": "1",
+      "img": "/assets/mall/mall1.webp",
+      "label": "Giảm đến 50%"
+    },
+    {
+      "id": "2",
+      "img": "/assets/mall/mall2.webp",
+      "label": "Mua 1 tặng 1"
+    },
+    {
+      "id": "3",
+      "img": "/assets/mall/mall3.webp",
+      "label": "Mua 1 tặng 1"
+    },
+    {
+      "id": "4",
+      "img": "/assets/mall/mall4.webp",
+      "label": "Deli siêu sale"
+    },
+    {
+      "id": "5",
+      "img": "/assets/mall/mall5.webp",
+      "label": "Ưu đãi đến 50%"
+    },
+    {
+      "id": "6",
+      "img": "/assets/mall/mall6.webp",
+      "label": "Mua 1 tặng 1"
+    },
+    {
+      "id": "7",
+      "img": "/assets/mall/mall7.webp",
+      "label": "Mua 1 được 2"
+    },
+    {
+      "id": "8",
+      "img": "/assets/mall/mall8.webp",
+      "label": "Mua là có quà"
+    },
+    {
+      "id": "9",
+      "img": "/assets/mall/mall9.webp",
+      "label": "Quà mọi đơn"
+    },
+    {
+      "id": "10",
+      "img": "/assets/mall/mall10.webp",
+      "label": "Mua là có quà"
+    },
+    {
+      "id": "11",
+      "img": "/assets/mall/mall11.webp",
+      "label": "Giảm đến 20%"
+    },
+    {
+      "id": "12",
+      "img": "/assets/mall/mall12.webp",
+      "label": "Săn sale siêu hot"
+    },
+    {
+      "id": "13",
+      "img": "/assets/mall/mall13.webp",
+      "label": "Mua 1 tặng 1"
+    },
+    {
+      "id": "14",
+      "img": "/assets/mall/mall14.webp",
+      "label": "Mua 1 được 6"
+    },
+    {
+      "id": "15",
+      "img": "/assets/mall/mall15.webp",
+      "label": "Mua là có quà"
+    }
+  ],
+  "topSearches": [
+    {
+      "id": "1",
+      "img": "/assets/topsearch/top1.jfif",
+      "label": "Dầu Gội Nguyên Xuân",
+      "sold": "Bán 62k+ / tháng"
+    },
+    {
+      "id": "2",
+      "img": "/assets/topsearch/top2.jfif",
+      "label": "Áo Thun Polo Nam Ngắn Tay",
+      "sold": "Bán 54k+ / tháng"
+    },
+    {
+      "id": "3",
+      "img": "/assets/topsearch/top3.jfif",
+      "label": "Bút Mực Gel",
+      "sold": "Bán 77k+ / tháng"
+    },
+    {
+      "id": "4",
+      "img": "/assets/topsearch/top4.jfif",
+      "label": "Quần Ống Rộng",
+      "sold": "Bán 44k+ / tháng"
+    },
+    {
+      "id": "5",
+      "img": "/assets/topsearch/top5.jfif",
+      "label": "Kẹp Tóc Càng Cua Đơn Giản",
+      "sold": "Bán 56k+ / tháng"
+    },
+    {
+      "id": "6",
+      "img": "/assets/topsearch/top6.jfif",
+      "label": "Ốp Iphone 5",
+      "sold": "Bán 60k+ / tháng"
+    },
+    {
+      "id": "7",
+      "img": "/assets/topsearch/top7.jfif",
+      "label": "Bánh Tráng Trộn",
+      "sold": "Bán 48k+ / tháng"
+    },
+    {
+      "id": "8",
+      "img": "/assets/topsearch/top8.jfif",
+      "label": "Quần Lót Nam Co Dãn",
+      "sold": "Bán 52k+ / tháng"
+    },
+    {
+      "id": "9",
+      "img": "/assets/topsearch/top9.jfif",
+      "label": "Ốp Lưng Iphone",
+      "sold": "Bán 81k+ / tháng"
+    },
+    {
+      "id": "10",
+      "img": "/assets/topsearch/top10.jfif",
+      "label": "Ô Dù",
+      "sold": "Bán 49k+ / tháng"
+    },
+    {
+      "id": "11",
+      "img": "/assets/topsearch/top11.jfif",
+      "label": "Son Kem Lì Min Môi Romand",
+      "sold": "Bán 90k+ / tháng"
+    },
+    {
+      "id": "12",
+      "img": "/assets/topsearch/top12.jfif",
+      "label": "Bộ Chăn Ga Gối Cotton",
+      "sold": "Bán 58k+ / tháng"
+    }
+  ],
+  "dailySuggestions": [
+    {
+      "id": "sg-13",
+      "img": "/assets/suggestions/sg1.webp",
+      "discount": "-31%",
+      "title": "Yêu thích Túi xách nữ túi cầm tay đeo chéo da sần...",
+      "price": "108.999₫",
+      "tags": []
+    },
+    {
+      "id": "sg-14",
+      "img": "/assets/suggestions/sg2.webp",
+      "discount": "-31%",
+      "title": "Chân Váy Chữ A Thô Kaki Nữ Dáng Xoè Bồng Chất...",
+      "price": "113.850₫",
+      "tags": []
+    },
+    {
+      "id": "sg-15",
+      "img": "/assets/suggestions/sg3.webp",
+      "discount": "-46%",
+      "title": "Yêu thích Quạt cầm tay mini Turbo 100 cấp độ gió, pin...",
+      "price": "79.000₫",
+      "tags": [
+        "Rẻ Vô Địch"
+      ]
+    },
+    {
+      "id": "sg-16",
+      "img": "/assets/suggestions/sg4.webp",
+      "discount": "-39%",
+      "title": "Yêu thích Tai nghe Bluetooth không dây KY9 / KY8...",
+      "price": "55.000₫",
+      "tags": []
+    },
+    {
+      "id": "sg-17",
+      "img": "/assets/suggestions/sg5.webp",
+      "discount": "-36%",
+      "title": "RY ✅ Mắt kính chống bức xạ và ánh sáng xanh...",
+      "price": "17.990₫",
+      "tags": [
+        "Giảm 5K"
+      ]
+    },
+    {
+      "id": "sg-18",
+      "img": "/assets/suggestions/sg6.webp",
+      "discount": "-45%",
+      "title": "Yêu thích Túi đeo vai baguette nữ dáng dài đính...",
+      "price": "56.000₫",
+      "tags": [
+        "Rẻ Vô Địch"
+      ]
+    },
+    {
+      "id": "sg-19",
+      "img": "/assets/suggestions/sg7.webp",
+      "discount": "-31%",
+      "title": "Yêu thích [A01 ] Áo ống sọc vải co giãn vừa ( không...",
+      "price": "49.000₫",
+      "tags": [
+        "Rẻ Vô Địch"
+      ]
+    },
+    {
+      "id": "sg-20",
+      "img": "/assets/suggestions/sg8.webp",
+      "discount": "-45%",
+      "title": "Yêu thích Túi tote saigon 98stu size S da pu cao c...",
+      "price": "165.000₫",
+      "tags": [
+        "Giá sập"
+      ]
+    },
+    {
+      "id": "sg-21",
+      "img": "/assets/suggestions/sg9.webp",
+      "discount": "-49%",
+      "title": "Sỏi trang trí chậu cây, sỏi hồ cá các loại (1kg)",
+      "price": "12.000₫",
+      "tags": [
+        "Rẻ Vô Địch"
+      ]
+    },
+    {
+      "id": "sg-22",
+      "img": "/assets/suggestions/sg10.webp",
+      "discount": "-36%",
+      "title": "Yêu thích Áo Khoác Gió Bomber Hai Lớp Chống...",
+      "price": "25.000₫",
+      "tags": []
+    },
+    {
+      "id": "sg-23",
+      "img": "/assets/suggestions/sg11.webp",
+      "discount": "-68%",
+      "title": "Quạt mini cầm tay M2 5000mAh di động có thể...",
+      "price": "43.000₫",
+      "tags": [
+        "Rẻ Vô Địch"
+      ]
+    },
+    {
+      "id": "sg-24",
+      "img": "/assets/suggestions/sg12.webp",
+      "discount": "-64%",
+      "title": "Yêu thích Tai nghe tai Bluetooth 5.3 không dây...",
+      "price": "61.000₫",
+      "tags": [
+        "Rẻ Vô Địch"
+      ]
+    },
+    {
+      "id": "sg-25",
+      "img": "/assets/suggestions/sg13.webp",
+      "discount": "-41%",
+      "title": "Yêu thích [ẢNH OLDSCHOOL] Chân váy...",
+      "price": "129.000₫",
+      "tags": [
+        "Giảm 10K"
+      ]
+    },
+    {
+      "id": "sg-26",
+      "img": "/assets/suggestions/sg14.webp",
+      "discount": "-41%",
+      "title": "[Tặng Ốp] Ô Dù PTLUXURY Gấp Gọn Chống Tia UV...",
+      "price": "89.000₫",
+      "tags": []
+    },
+    {
+      "id": "sg-27",
+      "img": "/assets/suggestions/sg15.webp",
+      "discount": "-25%",
+      "title": "Yêu thích Áo Sweater Kẻ thêu TOSUN Form Rộng...",
+      "price": "165.000₫",
+      "tags": []
+    },
+    {
+      "id": "sg-28",
+      "img": "/assets/suggestions/sg16.webp",
+      "discount": "-50%",
+      "title": "Jellycuty - Mắt Kính Chống Bức Xạ Và Ánh Sáng Xa...",
+      "price": "16.630₫",
+      "tags": []
+    },
+    {
+      "id": "sg-29",
+      "img": "/assets/suggestions/sg17.webp",
+      "discount": "-50%",
+      "title": "Túi Gấu Bọc Thức Ăn Co Chun Co Giãn Có Thể T...",
+      "price": "9.000₫",
+      "tags": []
+    },
+    {
+      "id": "sg-30",
+      "img": "/assets/suggestions/sg18.webp",
+      "discount": "-8%",
+      "title": "Yêu thích Combo 30/50 cái móc quần áo bằng kim lo...",
+      "price": "141.100₫",
+      "tags": [
+        "30% giảm"
+      ]
+    },
+    {
+      "id": "sg-31",
+      "img": "/assets/suggestions/sg19.webp",
+      "discount": "-26%",
+      "title": "Yêu thích Bông tẩy trang La Soirée 100% cotton tự...",
+      "price": "29.500₫",
+      "tags": []
+    },
+    {
+      "id": "sg-32",
+      "img": "/assets/suggestions/sg20.webp",
+      "discount": "-43%",
+      "title": "Yêu thích Giày Búp Bê Da Lộn Mũi Vuông Quai...",
+      "price": "96.000₫",
+      "tags": [
+        "Rẻ Vô Địch"
+      ]
+    },
+    {
+      "id": "sg-33",
+      "img": "/assets/suggestions/sg21.webp",
+      "discount": "-47%",
+      "title": "Yêu thích Tai Nghe Bluetooth Pro 4 Không Dây...",
+      "price": "52.000₫",
+      "tags": [
+        "Rẻ Vô Địch"
+      ]
+    },
+    {
+      "id": "sg-34",
+      "img": "/assets/suggestions/sg22.webp",
+      "discount": "-47%",
+      "title": "Bảng Phấn Mắt 25 Màu Đất Mới Thời Trang L...",
+      "price": "38.000₫",
+      "tags": []
+    },
+    {
+      "id": "sg-35",
+      "img": "/assets/suggestions/sg23.webp",
+      "discount": "-22%",
+      "title": "kệ để giày, Giá để giày 5 tầng kiểu mới đa năng...",
+      "price": "45.900₫",
+      "tags": [
+        "Rẻ Vô Địch"
+      ]
+    },
+    {
+      "id": "sg-36",
+      "img": "/assets/suggestions/sg24.webp",
+      "discount": "-21%",
+      "title": "Yêu thích Kem nền che khuyết điểm QISE Kem nền...",
+      "price": "31.700₫",
+      "tags": [
+        "Rẻ Vô Địch"
+      ]
+    }
+  ],
+  "footerData": {
+    "customerService": [
+      "Trung Tâm Trợ Giúp",
+      "Shopee Blog",
+      "Shopee Mall",
+      "Hướng Dẫn Mua Hàng",
+      "Hướng Dẫn Bán Hàng",
+      "Vận Chuyển",
+      "Trả Hàng & Hoàn Tiền",
+      "Chăm Sóc Khách Hàng",
+      "Chính Sách Bảo Hành"
+    ],
+    "aboutShopee": [
+      "Giới Thiệu Về Shopee Việt Nam",
+      "Tuyển Dụng",
+      "Điều Khoản Shopee",
+      "Chính Sách Bảo Mật",
+      "Chính Hãng",
+      "Kênh Người Bán",
+      "Flash Sales",
+      "Chương Trình Tiếp Thị Liên Kết",
+      "Liên Hệ Với Truyền Thông"
+    ],
+    "paymentLogos": [
+      "/assets/logos/visa.png",
+      "/assets/logos/mastercard.png",
+      "/assets/logos/jcb.png",
+      "/assets/logos/amex.png",
+      "/assets/logos/tragop.png",
+      "/assets/logos/shopeepay.png",
+      "/assets/logos/paylater.png"
+    ],
+    "shippingLogos": [
+      "/assets/logos/spx.png",
+      "/assets/logos/ghtk.png",
+      "/assets/logos/ghn.png",
+      "/assets/logos/viettelpost.png",
+      "/assets/logos/vnpost.png",
+      "/assets/logos/jnt.png",
+      "/assets/logos/grab.png",
+      "/assets/logos/ninjavan.png"
+    ],
+    "followUs": [
+      {
+        "name": "Facebook",
+        "icon": "FacebookIcon"
+      },
+      {
+        "name": "Instagram",
+        "icon": "InstagramIcon"
+      },
+      {
+        "name": "LinkedIn",
+        "icon": "LinkedInIcon"
+      }
+    ],
+    "appDownload": {
+      "qrCode": "/assets/logos/qrcode.png",
+      "appStore": "/assets/logos/appstore.png",
+      "googlePlay": "/assets/logos/googleplay.png",
+      "appGallery": "/assets/logos/appgallery.png"
+    },
+    "countries": [
+      "Singapore",
+      "Indonesia",
+      "Thái Lan",
+      "Malaysia",
+      "Việt Nam",
+      "Philippines",
+      "Brazil",
+      "México",
+      "Colombia",
+      "Chile",
+      "Đài Loan"
+    ],
+    "policies": [
+      "CHÍNH SÁCH BẢO MẬT",
+      "QUY CHẾ HOẠT ĐỘNG",
+      "CHÍNH SÁCH VẬN CHUYỂN",
+      "CHÍNH SÁCH TRẢ HÀNG VÀ HOÀN TIỀN"
+    ],
+    "companyInfo": {
+      "logos": [
+        "/assets/logos/bocongthuong1.png",
+        "/assets/logos/bocongthuong2.png"
+      ],
+      "name": "Công ty TNHH Shopee",
+      "address": "Địa chỉ: Tầng 4-5-6, Tòa nhà Capital Place, số 29 đường Liễu Giai, Phường Ngọc Khánh, Quận Ba Đình, Thành phố Hà Nội, Việt Nam. Tổng đài hỗ trợ: 19001221 - Email: cskh@hotro.shopee.vn",
+      "legal": "Chịu Trách Nhiệm Quản Lý Nội Dung: Nguyễn Đức Trí - Mã số doanh nghiệp: 0106773786 do Sở Kế hoạch và Đầu tư TP Hà Nội cấp lần đầu ngày 10/02/2015",
+      "copyright": "© 2015 - Bản quyền thuộc về Công ty TNHH Shopee"
+    }
+  },
+  "cart": [
+    {
+      "id": "shop1",
+      "shopName": "ngoclinh.6866",
+      "isFavorite": true,
+      "products": [
+        {
+          "id": "sg-14",
+          "name": "Chân Váy Chữ A Thô Kaki Nữ Dáng Xoè Bồng Chất...",
+          "image": "/assets/suggestions/sg2.webp",
+          "variant": "Phân Loại: Mặc định",
+          "oldPrice": "165.000₫",
+          "newPrice": "113.850₫",
+          "quantity": 1
+        },
+        {
+          "id": "sg-15",
+          "name": "Yêu thích Quạt cầm tay mini Turbo 100 cấp độ gió, pin...",
+          "image": "/assets/suggestions/sg3.webp",
+          "variant": "Phân Loại: Mặc định",
+          "oldPrice": "146.296,296₫",
+          "newPrice": "79.000₫",
+          "quantity": 2
+        },
+        {
+          "id": "sg-16",
+          "name": "Yêu thích Tai nghe Bluetooth không dây KY9 / KY8...",
+          "image": "/assets/suggestions/sg4.webp",
+          "variant": "Phân Loại: Mặc định",
+          "oldPrice": "90.163,934₫",
+          "newPrice": "55.000₫",
+          "quantity": 2
+        },
+        {
+          "id": "sg-17",
+          "name": "RY ✅ Mắt kính chống bức xạ và ánh sáng xanh...",
+          "image": "/assets/suggestions/sg5.webp",
+          "variant": "Phân Loại: Mặc định",
+          "oldPrice": "28.109,375₫",
+          "newPrice": "17.990₫",
+          "quantity": 2
+        },
+        {
+          "id": "sg-18",
+          "name": "Yêu thích Túi đeo vai baguette nữ dáng dài đính...",
+          "image": "/assets/suggestions/sg6.webp",
+          "variant": "Phân Loại: Mặc định",
+          "oldPrice": "101.818,182₫",
+          "newPrice": "56.000₫",
+          "quantity": 2
+        },
+        {
+          "id": "sg-20",
+          "name": "Yêu thích Túi tote saigon 98stu size S da pu cao c...",
+          "image": "/assets/suggestions/sg8.webp",
+          "variant": "Phân Loại: Mặc định",
+          "oldPrice": "300.000₫",
+          "newPrice": "165.000₫",
+          "quantity": 1
+        },
+        {
+          "id": "sg-19",
+          "name": "Yêu thích [A01 ] Áo ống sọc vải co giãn vừa ( không...",
+          "image": "/assets/suggestions/sg7.webp",
+          "variant": "Phân Loại: Mặc định",
+          "oldPrice": "71.014,493₫",
+          "newPrice": "49.000₫",
+          "quantity": 1
+        },
+        {
+          "id": "sg-21",
+          "name": "Sỏi trang trí chậu cây, sỏi hồ cá các loại (1kg)",
+          "image": "/assets/suggestions/sg9.webp",
+          "variant": "Phân Loại: Mặc định",
+          "oldPrice": "23.529,412₫",
+          "newPrice": "12.000₫",
+          "quantity": 1
+        },
+        {
+          "id": "sg-22",
+          "name": "Yêu thích Áo Khoác Gió Bomber Hai Lớp Chống...",
+          "image": "/assets/suggestions/sg10.webp",
+          "variant": "Phân Loại: Mặc định",
+          "oldPrice": "39.062,5₫",
+          "newPrice": "25.000₫",
+          "quantity": 1
+        }
+      ],
+      "vouchers": [
+        "Thêm Shop Voucher"
+      ],
+      "shippingPromo": "Giảm 500.000đ phí vận chuyển tối thiểu 0đ. Tìm hiểu thêm"
+    }
+  ]
+}

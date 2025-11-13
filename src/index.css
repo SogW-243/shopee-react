@@ -1,0 +1,163 @@
+/* HeroSection */
+.hero-slider-container:hover {
+  .slick-arrow {
+    display: block !important;
+  }
+}
+
+.hero-slider-container .slick-arrow {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  z-index: 1;
+  display: none !important;
+}
+
+.hero-slider-container .slick-arrow:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.hero-slider-container .slick-arrow::before {
+  color: white;
+}
+
+/* Đẩy nút vào trong */
+.hero-slider-container .slick-prev {
+  left: 10px;
+}
+
+.hero-slider-container .slick-next {
+  right: 10px;
+}
+
+.hero-slider-container .button {
+  z-index: 1;
+}
+
+.hero-slider-container .slick-dots {
+  bottom: 20px;
+}
+
+.hero-slider-container .slick-dots li {
+  margin: 0;
+}
+
+.hero-slider-container .slick-dots li button:before {
+  font-size: 12px;
+}
+
+/* CategorySection */
+
+/* FlashSale */
+/* 📄 File: src/index.css */
+
+/* ... (CSS của .hero-slider-container và .category-slider-container) ... */
+
+/* Ghi đè CSS cho nút của Slider FLASH SALE */
+.flash-sale-slider .slick-arrow {
+  background-color: rgba(0, 0, 0, 0.3); /* Nền mờ */
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  z-index: 10;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+
+.flash-sale-slider .slick-arrow:hover {
+  background-color: rgba(0, 0, 0, 0.5); /* Đậm hơn khi hover */
+}
+
+.flash-sale-slider .slick-arrow::before {
+  color: white; /* Icon màu trắng */
+  font-size: 14px;
+}
+
+.flash-sale-slider .slick-prev::before {
+  content: "\2190"; /* Mũi tên trái */
+}
+.flash-sale-slider .slick-next::before {
+  content: "\2192"; /* Mũi tên phải */
+}
+
+/* Đặt vị trí nút */
+.flash-sale-slider .slick-prev {
+  left: -14px;
+}
+.flash-sale-slider .slick-next {
+  right: -14px;
+}
+
+.shopee-mall-slider .slick-arrow {
+  background-color: rgba(0, 0, 0, 0.3); /* Nền mờ */
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  z-index: 10;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+
+.shopee-mall-slider .slick-arrow:hover {
+  background-color: rgba(0, 0, 0, 0.5); /* Đậm hơn khi hover */
+}
+
+.shopee-mall-slider .slick-arrow::before {
+  color: white; /* Icon màu trắng */
+  font-size: 14px;
+}
+
+.shopee-mall-slider .slick-prev::before {
+  content: "\2190"; /* Mũi tên trái */
+}
+.shopee-mall-slider .slick-next::before {
+  content: "\2192"; /* Mũi tên phải */
+}
+
+/* Đặt vị trí nút */
+.shopee-mall-slider .slick-prev {
+  left: -14px;
+}
+.shopee-mall-slider .slick-next {
+  right: -14px;
+}
+
+/* TopSearches */
+
+.top-searches-slider .slick-arrow {
+  background-color: rgba(0, 0, 0, 0.3); /* Nền mờ */
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  z-index: 10;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+
+.top-searches-slider .slick-arrow:hover {
+  background-color: rgba(0, 0, 0, 0.5); /* Đậm hơn khi hover */
+}
+
+.top-searches-slider .slick-arrow::before {
+  color: white; /* Icon màu trắng */
+  font-size: 14px;
+}
+
+.top-searches-slider .slick-prev::before {
+  content: "\2190"; /* Mũi tên trái */
+}
+.top-searches-slider .slick-next::before {
+  content: "\2192"; /* Mũi tên phải */
+}
+
+/* Đặt vị trí nút */
+.top-searches-slider .slick-prev {
+  left: -14px;
+}
+.top-searches-slider .slick-next {
+  right: -14px;
+}
